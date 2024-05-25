@@ -25,7 +25,7 @@
   -  We have a wired controller
   -  You could use a wireless controller like [this one](https://www.amazon.com/CURT-51180-Controller-Bluetooth-Enabled-Proportional/dp/B07JQ99SDD/ref=sr_1_2_sspa?crid=3DZNIG5GPS6B8&keywords=wireless%2Bbrake%2Bcontroller&qid=1681731866&sprefix=wireless%2Bbrake%2Bcontrolle%2Caps%2C95&sr=8-2-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFPVU81WFRLMExVVDMmZW5jcnlwdGVkSWQ9QTAxODE2NzdJNFo4QTRRUDVJM1ImZW5jcnlwdGVkQWRJZD1BMDQ5NDQyNjJGQ0dYVDI2UTFWTVQmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&th=1)
   -  Wired is considered safer in case you need to quickly manually active brakes (e.g. sway instability event) - but I've never had this happen
-  -  Round lights inside are 3" puck lights for RV - https://www.etrailer.com/RV-Interior-Lights/Command-Electronics/328-K-1003WS.html
+  -  Round lights inside are 3" puck lights for RV - https://www.etrailer.com/RV-Interior-Lights/Command-Electronics/328-K-1003WS.html or you can get them on Amazon - Command Electronics White LED 3" Round Low Profile Truck Semi RV Trailer Utility Dome Light W/Switch
 
 ### Hitch
 
