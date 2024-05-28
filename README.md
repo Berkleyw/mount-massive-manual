@@ -26,13 +26,15 @@
   -  You could use a wireless controller like [this one](https://www.amazon.com/CURT-51180-Controller-Bluetooth-Enabled-Proportional/dp/B07JQ99SDD/ref=sr_1_2_sspa?crid=3DZNIG5GPS6B8&keywords=wireless%2Bbrake%2Bcontroller&qid=1681731866&sprefix=wireless%2Bbrake%2Bcontrolle%2Caps%2C95&sr=8-2-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFPVU81WFRLMExVVDMmZW5jcnlwdGVkSWQ9QTAxODE2NzdJNFo4QTRRUDVJM1ImZW5jcnlwdGVkQWRJZD1BMDQ5NDQyNjJGQ0dYVDI2UTFWTVQmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&th=1)
   -  Wired is considered safer in case you need to quickly manually active brakes (e.g. sway instability event) - but I've never had this happen
   -  Round lights inside are 3" puck lights for RV - https://www.etrailer.com/RV-Interior-Lights/Command-Electronics/328-K-1003WS.html or you can get them on Amazon - Command Electronics White LED 3" Round Low Profile Truck Semi RV Trailer Utility Dome Light W/Switch
+  -  The On-demand hot water heater needs at least 2.5 GPM, but the one that it comes with only provides 1.2 GPM. WHen I hooked it up with a hose, it worked great. Otherwise, it sputters out when the flow or the heat is too low. 
+  -   The current pump is a Seaflo SFDPI-012-035-21 and only pumps up to 1.2 GPM. It is 12V and 1.7A and 35 PSI. It is also 4" tall, so a replacement needs to be less than that.
+  -   I got this one (Poafamx RV Water Pump, DC 12V Water Pump with Pressure Switch, 5.5GPM 70PSI On Demand Water Pressure Pump Self-Priming Diaphragm Water Pump High Pressure for Home, Caravan, Marine, Yacht, Garden) from Amazon. It should work, but it pulls 8-10X more pwer than the normal pump. We will try it out ans see how it works
+
 
 ### Hitch
 
-- We use a Lock-n-roll trailer side attachmentt
-- Requires towing vehicle have lock-n-roll vehicle side hitch
-  - For the Highlander, we use [part 511 - Slides into a standard, 2" receiver tube. Can be set 2 1/2" higher or lower than receiver tube.](https://locknroll.com/shop-now/?route=product/product&product_id=21)
   - You will need the appropriate hitch height for your vehicle (Mount Massive is level with vehicle lock-n-roll at 19" - e.g. our receiver midpoint on Highlander is at 16.5", so we need a 2.5" lift in our lock-n-roll vehicle receiver)
+  - For my Honda odessey I figured I needed a 6" rise, so am trying that out...
 
 ## Weight Distribution
 
@@ -48,6 +50,7 @@
 ## Hinge repair
 
 - The back ally can leak on the right side when the hinge cracks. I think this is due to an over-powered locking hinge. Replace the hinge with an identical hinge, do not use the one with a galley from TCTeardrops since it has a different drop profile
+- Here is a video of the install 
 
 ## Checklists
 
